@@ -15,5 +15,18 @@ LLM-VeriBench is an automated Verilog testbench generator powered by large langu
 - Verilog HDL
 - Python 3
 
+## Installation
+### **1. Clone the Repository**
+```bash
+https://github.com/avanig1834/LLM-VeriBench.git
+cd ALU
+```
+### **2. Install Dependencies**
+Ensure you have python **3.8+** installed
+```bash
+pip install torch transformer peft
+```
+
+
 
 

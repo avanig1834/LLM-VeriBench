@@ -22,7 +22,7 @@
 3. Install dependencies `pip install torch transformers peft`
 4. Run the scripts and outputs files will be saved in `alu_outputs` folder and can be downloaded from there.
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.8+
 - PyTorch

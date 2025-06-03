@@ -26,7 +26,5 @@ Ensure you have python **3.8+** installed
 ```bash
 pip install torch transformer peft
 ```
-### **License**
-This project is licensed under the MIT License.
 
 
